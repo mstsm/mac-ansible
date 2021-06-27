@@ -1,7 +1,7 @@
 
 # 実行
-
 ```bash
+curl -O https://raw.githubusercontent.com/mstsm/mac-ansible/6d48a0dde6c535f9ad6b070ab8bdda616c4809cf/setting.sh
 chmod 755 ./setting.sh
 sh ./setting.sh
 ```
@@ -46,3 +46,6 @@ echo "homebrew_taps:" && brew tap | awk '{print "  - "$1}'
 echo "homebrew_packages:" &&  brew list | awk '{print "  - name: "$1}'
 echo "homebrew_cask_packages:" && brew list --cask | awk '{print "  - name: "$1}'
 ```
+
+# 参考
+https://qiita.com/kohbis/items/c12281805f9f9f59600d

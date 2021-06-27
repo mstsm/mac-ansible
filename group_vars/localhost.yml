@@ -35,6 +35,8 @@ homebrew_cask_packages:
   - name: visual-studio-code
   - name: kindle
   - name: karabiner-elements
+  - name: sourcetree
+  - name: amazon-workspaces
 dot_files:
   - .bash_profile
   - .bashrc
