@@ -1,0 +1,87 @@
+homebrew_taps:
+  - homebrew/cask
+  - homebrew/core
+homebrew_packages:
+  - name: aws-sam-cli
+  - name: fontconfig
+  - name: freetype
+  - name: jpeg
+  - name: mecab
+  - name: mecab-ipadic
+  - name: mpdecimal
+  - name: netpbm
+  - name: nodebrew
+  - name: openssl@1.1
+  - name: pcre
+  - name: pipenv
+  - name: pkg-config
+  - name: python@3.9
+  - name: readline
+  - name: rename
+  - name: sqlite
+  - name: tree
+  - name: wget
+homebrew_cask_packages:
+  - name: appcleaner
+  - name: cyberduck
+  - name: docker
+  - name: google-chrome
+  - name: google-cloud-sdk 
+  - name: google-japanese-ime
+  - name: skitch
+  - name: slack
+  - name: discord
+  - name: station
+  - name: visual-studio-code
+  - name: kindle
+  - name: karabiner-elements
+dot_files:
+  - .bash_profile
+  - .bashrc
+code_extensions:
+  - 42Crunch.vscode-openapi
+  - adpyke.vscode-sql-formatter
+  - batisteo.vscode-django
+  - christian-kohler.path-intellisense
+  - CoenraadS.bracket-pair-colorizer
+  - eamodio.gitlens
+  - ecmel.vscode-html-css
+  - equinusocio.vsc-material-theme-icons
+  - esbenp.prettier-vscode
+  - goessner.mdmath
+  - golang.go
+  - Gruntfuggly.todo-tree
+  - jebbs.plantuml
+  - ktsn.vue-designer
+  - mechatroner.rainbow-csv
+  - ms-azuretools.vscode-docker
+  - MS-CEINTL.vscode-language-pack-ja`
+  - ms-python.vscode-pylance
+  - ms-toolsai.jupyter
+  - ms-vscode-remote.remote-containers
+  - ms-vsliveshare.vsliveshare
+  - ms-vsliveshare.vsliveshare-audio
+  - ms-vsliveshare.vsliveshare-pack
+  - mtxr.sqltools
+  - njpwerner.autodocstring
+  - octref.vetur
+  - oderwat.indent-rainbow
+  - onesdev.vscode-paste-image-plus
+  - phplasma.csv-to-table
+  - PKief.material-icon-theme
+  - redhat.java
+  - redhat.vscode-commons
+  - redhat.vscode-yaml
+  - shd101wyy.markdown-preview-enhanced
+  - telesoho.vscode-markdown-paste-image
+  - tht13.html-preview-vscode
+  - tomoki1207.pdf
+  - VisualStudioExptTeam.vscodeintellicode
+  - vscjava.vscode-java-debug
+  - vscjava.vscode-java-dependency
+  - vscjava.vscode-java-pack
+  - vscjava.vscode-java-test
+  - vscjava.vscode-maven
+  - yzane.markdown-pdf
+  - yzhang.markdown-all-in-one
+  - zhuangtongfa.material-theme
