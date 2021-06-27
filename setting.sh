@@ -16,4 +16,4 @@ git clone https://github.com/mstsm/mac-ansible.git ${ANSIBLE_PATH}
 
 ## ansible
 cd ${ANSIBLE_PATH}
-ansible-playbook -i inventory/localhost localhost.ymlls
+ansible-playbook -i inventory/localhost localhost.yml
