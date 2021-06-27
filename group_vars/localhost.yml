@@ -37,6 +37,11 @@ homebrew_cask_packages:
   - name: karabiner-elements
   - name: sourcetree
   - name: amazon-workspaces
+  - name: lunar #ディスプレイの明るさ
+  - name: via #Keyboard
+  - name: alt-tab 
+  - name: amazon-chime
+  - name: daisydisk # Cleanup
 dot_files:
   - .bash_profile
   - .bashrc
