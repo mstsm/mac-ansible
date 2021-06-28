@@ -1,7 +1,7 @@
 
 # 実行
 ```bash
-curl -O https://raw.githubusercontent.com/mstsm/mac-ansible/6d48a0dde6c535f9ad6b070ab8bdda616c4809cf/setting.sh
+curl -O https://raw.githubusercontent.com/mstsm/mac-ansible/master/setting.sh
 chmod 755 ./setting.sh
 sh ./setting.sh
 ```
